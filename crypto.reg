@@ -1,0 +1,10 @@
+"StrengthenedKeyUsageControl"=dword:00000001
+"forbid_time_sign_2001"=hex(b):ff,ff,ff,ff,ff,ff,ff,ff
+"forbid_time_gen_2001"=hex(b):ff,ff,ff,ff,ff,ff,ff,ff
+"EnableNativeTokenCryptMode"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Ole]
+"EnableDCOM"="N"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon]
+"CachedLogonsCount"="0"
